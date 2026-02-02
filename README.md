@@ -4,7 +4,7 @@
 **Contributors:** Clay Grant, Austin Hill, Luke Nachnani, Abrihim Bolisetty
 
 ## Overview
-Statistical analysis of 30+ years of global climate data (1992-2013) exploring relationships between greenhouse gases, land temperatures, and sea level changes.
+Statistical analysis of 20+ years of global climate data (1992-2013) exploring relationships between greenhouse gases, land temperatures, and sea level changes.
 
 ## Repository Contents
 - **[climate-data-analysis.ipynb](climate-data-analysis.ipynb)** - Python notebook with data cleaning, exploratory data analysis, regression modeling, and vector autoregression forecasting
